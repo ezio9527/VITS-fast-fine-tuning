@@ -14,11 +14,6 @@ Chinese & Japanese：[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F
 
 Chinese only：(No running huggingface spaces) Author: [Wwwwhy230825](https://github.com/Wwwwhy230825)
 
-## Minimal Inference Package
-If you only need to run inference with an existing checkpoint, see the
-`inference_only` directory. It contains a trimmed set of modules and a
-separate `requirements.txt` with the runtime dependencies.
-
 
 ### Currently Supported Tasks:
 - [x] Clone character voice from 10+ short audios
