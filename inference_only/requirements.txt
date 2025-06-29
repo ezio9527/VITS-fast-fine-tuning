@@ -1,0 +1,16 @@
+torch
+numpy
+scipy
+librosa
+unidecode
+pyopenjtalk-prebuilt
+jamo
+pypinyin
+jieba
+cn2an
+inflect
+eng_to_ipa
+ko_pron
+indic_transliteration
+num_thai
+opencc
